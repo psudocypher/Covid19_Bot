@@ -1,5 +1,5 @@
 # Covid19 Bot for India
 
-#<img src = "Images/Screenshot_2020-04-17-02-46-08.png" width = 100>
+<img src = "Images/Screenshot_2020-04-17-02-46-08.png" width = 400>
 
 ![](Images/Screenshot_2020-04-17-02-46-08.png)
